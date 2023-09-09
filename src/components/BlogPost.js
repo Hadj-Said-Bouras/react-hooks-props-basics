@@ -1,6 +1,7 @@
 import React from "react";
 import BlogContent from "./BlogContent";
 import Comment from "./Comment";
+import Note from "./Comment";
 
 function BlogPost() {
   return (
